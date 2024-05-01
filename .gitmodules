@@ -1,0 +1,3 @@
+[submodule "new/armstrong"]
+	path = new/armstrong
+	url = https://github.com/santhosh444-ai/armstrong.git
